@@ -78,14 +78,14 @@ https://discord.gg/HvFuP7Qx
 |--|預錄|(CH6-2)Bof - ret2libc|https://youtu.be/H21YofSTazY |
 |10:30-11:30|預錄|(CH7-1)ROP|https://youtu.be/EsbUdf0_EY8 |
 |--|預錄|(CH7-2)ROP|https://youtu.be/XsC5GxYGUmU|
-|11:30-12:00|直播|講師線上直播解講及QA|https://meet.google.com/byz-nusm-wqt|
+|11:30-12:00|直播|講師線上直播解講及QA|https://meet.google.com/byz-nusm-wqt |
 |13:00-14:30|預錄|(CH8-1)Format String|https://youtu.be/vfHs9kxh0_A|
 |--|預錄|(CH8-2)Format String|https://youtu.be/kgA2ZNpwic4 |
 |--|預錄|(CH8-3)Format Stringc|https://youtu.be/-0dYnQtMjBU |
 |--|預錄|(CH8-4)Format Stringc|https://youtu.be/RGalgUT2VFM |
 |14:30-16:00|預錄|(CH9-1)Stack Migration|https://youtu.be/LibVsrE20R0 |
 |--|預錄|(CH9-2)Stack Migration|hhttps://youtu.be/LibVsrE20R0 |
-|16:00-16:30|直播&簽到|講師線上直播解講及QA|https://meet.google.com/jwf-gsjk-hdn|
+|16:00-16:30|直播&簽到|講師線上直播解講及QA|https://meet.google.com/jwf-gsjk-hdn |
 
 # 課程問題提問表單
 ```
