@@ -6,13 +6,11 @@
 
 課程名稱：基礎漏洞分析與測試
 
-課程大綱：本次課程將涵蓋幾種漏洞分析與測試，
-包括緩衝區溢位(buffer overflow, BOF)及格式化字串攻擊(Format String Attack)。
-
-課程將從基礎的分析開始並進行安全測試，也將涵蓋ROP(Return Oriented Programming)的攻擊與測試分析。
-
-課程內容尚包括安全機制(Security Options)的說明與檢視工具(checksec)，涵蓋RELRO、Stack Canary、NX、
-PIE、ASLR(Address Space LayoutRandomization)等安全機制，同時也將觸及繞過這些安全機制的攻擊手法。
+課程大綱：
+-本次課程將涵蓋幾種漏洞分析與測試，包括緩衝區溢位(buffer overflow, BOF)及格式化字串攻擊(Format String Attack)。
+-課程將從基礎的分析開始並進行安全測試，也將涵蓋ROP(Return Oriented Programming)的攻擊與測試分析。
+-課程內容尚包括安全機制(Security Options)的說明與檢視工具(checksec)，涵蓋RELRO、Stack Canary、NX、
+ PIE、ASLR(Address Space LayoutRandomization)等安全機制，同時也將觸及繞過這些安全機制的攻擊手法。
 
 本課程將使用底下工具nc / ncat, objdump, gdb, radare2, gdb-vmmap, pwntools, readelf, ROPgadget, 
 one_gadget進行測試。
@@ -43,23 +41,23 @@ one_gadget進行測試。
 (3)image下載連結：https://drive.google.com/file/d/17Q6EAH0n8PKZIoajuCBkrJtT6Pezbkqp/view?usp=sharing
 VM帳號及密碼都是user
 ```
-# 課程簡報
+# 課程簡報下載
 
 [漏洞攻擊從入門到放棄.pdf](https://github.com/MyFirstSecurity2020/MyfirstPWN/blob/main/%E6%BC%8F%E6%B4%9E%E6%94%BB%E6%93%8A%E5%BE%9E%E5%85%A5%E9%96%80%E5%88%B0%E6%94%BE%E6%A3%84.pdf)
 
 # 非經取得本單位或講者授權，不得任意轉載或公開傳輸
 
-# CTF平台
+# [CTF平台](https://140.110.112.229/)
 ```
-CTF平台：https://140.110.112.229/  (此為正式平台，簡報平台為測試平台，請使用此平台)
+CTF平台：https://140.110.112.229/  (此為正式平台，簡報上為測試平台，請使用此平台)
 一人一隊，請自行註冊(並請記得註冊EMAIL與帳號將提供驗證核發證書使用)
 平台連結
 ```
 
-# Discord課程聊天室
+# [Discord課程聊天室](https://discord.gg/HvFuP7Qx)
 ```
-https://discord.gg/HvFuP7Qx
 學員可以聊天室上互相提問學習(講師也會不定時上線)
+https://discord.gg/HvFuP7Qx
 ```
 
 # [課程問題提問表單](https://forms.gle/bavE1Z8gD9cdXDw78)
@@ -110,7 +108,7 @@ https://forms.gle/bavE1Z8gD9cdXDw78
 
 
 
-# 證書核發
+# [證書核發](https://forms.gle/oyfB1JWYKg1rDYnS6)
 ```
 (1)證書於9月6日後掛號寄出
 (2)8月29日請填寫問卷：https://forms.gle/oyfB1JWYKg1rDYnS6
@@ -120,4 +118,26 @@ https://forms.gle/bavE1Z8gD9cdXDw78
 ```
 (1)任選平台裡其中17題題目完成即可進行證書發放審查。
 (2)解題截止時間：8/31(二) 17:00
+
+01.張元 Pwn6 
+02.張元 Pwn7
+03.張元 Pwn1 
+04.pass
+05.張元 Pwn8 
+06.Angelboy Pwn1
+07.gohome
+08.registration
+09.Angelboy Pwn2 
+10.張元 Pwn9
+11.Angelboy Pwn3 
+12.oob3 Sean Pwn3
+13.張元 Pwn10 
+14.echo_server
+15.fmtstr 
+16.fmt-1
+17.fmt-2 
+18.fmt-3
+19.secret
+20.Angelboy Pwn7
+
 ```
