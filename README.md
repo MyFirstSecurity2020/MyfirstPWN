@@ -36,7 +36,7 @@ VM帳號及密碼都是user
 # 8月28日(星期六)課程表與影片/直播連結
 
 |時間|章節名稱|上課方式|影片/直播連結|
-|--:--|--:--|:------|:-------------|
+|:----:|:----:|:------|:-------------|
 |09:00-10:30|預錄|(CH1)Program Structure + Security Option|https://youtu.be/ZraMzBnT-94|
 |10:30-11:30|預錄|(CH2)Tools|https://youtu.be/DZ8c81Gck2k |
 |11:30-12:00|直播|講師線上直播解講及QA|https://meet.google.com/bhz-djus-yai|
