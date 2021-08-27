@@ -62,7 +62,7 @@ https://discord.gg/HvFuP7Qx
 學員可以聊天室上互相提問學習(講師也會不定時上線)
 ```
 
-# 課程問題提問表單
+# [課程問題提問表單](https://forms.gle/bavE1Z8gD9cdXDw78)
 ```
 學員對課程上或解題上有任何問題的可以在表單上提問直播時講師會解答
 https://forms.gle/bavE1Z8gD9cdXDw78
