@@ -113,7 +113,7 @@ https://forms.gle/bavE1Z8gD9cdXDw78
 (2)8月29日請填寫問卷：https://forms.gle/oyfB1JWYKg1rDYnS6
 ```
 
-# 題目
+# CTF題目
 ```
 (1)任選平台裡其中17題題目完成即可進行證書發放審查。
 (2)解題截止時間：8/31(二) 17:00
