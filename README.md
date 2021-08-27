@@ -102,7 +102,7 @@ https://forms.gle/bavE1Z8gD9cdXDw78
 |--|預錄|(CH8-3)Format Stringc|https://youtu.be/-0dYnQtMjBU |
 |--|預錄|(CH8-4)Format Stringc|https://youtu.be/RGalgUT2VFM |
 |14:30-16:00|預錄|(CH9-1)Stack Migration|https://youtu.be/LibVsrE20R0 |
-|--|預錄|(CH9-2)Stack Migration|https://youtu.be/LibVsrE20R0 |
+|--|預錄|(CH9-2)Stack Migration| https://youtu.be/LibVsrE20R0 |
 |16:00-16:30|直播&簽到|講師線上直播解講及QA|https://meet.google.com/jwf-gsjk-hdn |
 
 
