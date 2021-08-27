@@ -81,10 +81,10 @@ https://forms.gle/bavE1Z8gD9cdXDw78
 |11:30-12:00|直播&簽到|講師線上直播解講及QA|https://meet.google.com/bhz-djus-yai|
 |13:00-14:00|預錄|(CH3-1)Bof - Local Variable|https://youtu.be/UmLr0_B6yqc |
 |--|預錄|(CH3-2)Bof - Local Variable|https://youtu.be/UqqqxYYeGXA |
-|14:00-15:30|預錄|(CH4-1)Bof - ret2code + ret2sc|https://youtu.be/Db_BQsv9MmA |
-|--|預錄|(CH4-2)Bof - ret2code + ret2sc|https://youtu.be/9wvb09WNwn0 |
-|--|預錄|(CH5-1)Bof - ret2code + ret2sc|https://youtu.be/VABqxI20ySE|
-|--|預錄|(CH5-2)Bof - ret2code + ret2sc|https://youtu.be/KKZ8YkSSb8I|
+|14:00-15:30|預錄|(CH4-1)Bof - ret2code|https://youtu.be/Db_BQsv9MmA |
+|--|預錄|(CH4-2)Bof - ret2code|https://youtu.be/9wvb09WNwn0 |
+|--|預錄|(CH5-1)Bof - ret2sc|https://youtu.be/VABqxI20ySE|
+|--|預錄|(CH5-2)Bof - ret2sc|https://youtu.be/KKZ8YkSSb8I|
 |15:30-16:30|直播|講師線上直播解講及QA|https://meet.google.com/tdb-wixc-ixs|
 
 
