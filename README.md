@@ -74,7 +74,7 @@ https://forms.gle/bavE1Z8gD9cdXDw78
 
 # 8月28日(星期六)課程表與影片/直播連結
 
-|時間|章節名稱|上課方式|影片/直播連結|
+|時間|上課方式|章節名稱|影片/直播連結|
 |:----:|:----:|:------|:-------------|
 |09:00-10:30|預錄|(CH1)Program Structure + Security Option|https://youtu.be/ZraMzBnT-94|
 |10:30-11:30|預錄|(CH2)Tools|https://youtu.be/DZ8c81Gck2k |
@@ -89,7 +89,7 @@ https://forms.gle/bavE1Z8gD9cdXDw78
 
 
 # 8月29日(星期日)課程表與影片/直播連結
-|時間|章節名稱|上課方式|影片/直播連結|
+|時間|上課方式|章節名稱|影片/直播連結|
 |:----:|:----:|:------|:-------------|
 |09:00-10:30|預錄|(CH6-1)Bof - ret2libc|https://youtu.be/lR0-nQpX56c |
 |--|預錄|(CH6-2)Bof - ret2libc|https://youtu.be/H21YofSTazY |
