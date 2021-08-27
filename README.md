@@ -1,32 +1,75 @@
-# 2021年8月28日-29日基礎PWN課程
+# 2021年8月28日-29日基礎漏洞分析與測試
 
 ```
 教育部先進資通安全實務人才培育計畫
 校園資安深耕營Advanced Happy CyberSecurity Day
 
-課程名稱：基礎PWN
+課程名稱：基礎漏洞分析與測試
 
-課程大綱：
+課程大綱：本次課程將涵蓋幾種漏洞分析與測試，包括緩衝區溢位(buffer overflow, BOF)及格式化字串攻擊(Format String Attack)。課程將從基礎的分析開始並進行安全測試，也將涵蓋ROP(Return Oriented Programming)的攻擊與測試分析。課程內容尚包括安全機制(Security Options)的說明與檢視工具(checksec)，涵蓋RELRO、Stack Canary、NX、PIE、ASLR(Address Space LayoutRandomization)等安全機制，同時也將觸及繞過這些安全機制的攻擊手法。本課程將使用底下工具nc / ncat, objdump, gdb, radare2, gdb-vmmap, pwntools, readelf, ROPgadget, one_gadget進行測試。
+
 講師：臺灣好厲駭資深學長陳憶賢
 
 先備知識：
+(1)本課程對高中職學生具有一定程度的難度，請積極學習。
+(2)曾參與HappyPythonDay並熟悉python程式設計與pwntools技術尤佳。
+(3)曾參與HappyLinuxDay並熟悉基礎Linux指令尤佳。
+(4)另外建議先熟悉基礎逆向工程技術(objdump, gdb, radare2)與基礎組合語言指令!
 
-事先需安裝之軟體：錄取後會提供OVA檔案與環境安裝建置影片予學員課前建置環境
+事先需安裝之軟體：
+(1)環境安裝參考影片：https://youtu.be/Q9-ruKH032U
+(2)(未有VM軟體者首先安裝)Oracle VM VirtualBox下載連結：https://www.virtualbox.org/wiki/Downloads
+(3)image下載連結：https://drive.google.com/file/d/17Q6EAH0n8PKZIoajuCBkrJtT6Pezbkqp/view?usp=sharing
+VM帳號及密碼都是user
+
 
 學員證書發放說明：
-(1)學員需完成指定題目達17題以上。
-(2)證書只提供給具本國籍國中高中職五專在學學生(含應屆畢業生)。
-(3)本主辦單位保有最終修改、變更、活動解釋及取消之權利。
+(1)學員需完成指定題目達17題(含)以上。 
+(2)證書只提供給具本國籍國中高中職五專在學學生(含應屆畢業生)。  
+(3)證書於9月6日後由郵局掛號寄出。  
+(4)本主辦單位保有最終修改、變更、活動解釋及取消之權利。     
 
 ✪指導單位：教育部資訊及科技教育司
 ✪主辦單位：教育部先進資通安全實務人才培育計畫推動辦公室、崑山科技大學、國立宜蘭大學、國立臺中高工
 ✪聯絡窗口：陳小姐0928-155-602 / E-mail:samtn125@gmail.com或洽FB粉絲頁(高中職生資安研習營)
 ```
-# 7月10日(六)課程表
-![0710.jpg](./pic/0710.JPG)
+# 8月28日(星期六)課程表與影片/直播連結
 
-# 7月11日(日)課程表
-![0711.jpg](./pic/0711.JPG)
+|時間|章節名稱|上課方式|影片/直播連結|
+|---|:---------|:------|:-------------|
+|09:00-10:30|預錄|(CH1)Program Structure + Security Option|https://youtu.be/ZraMzBnT-94|
+|10:30-11:30|預錄|(CH2)Tools|https://youtu.be/DZ8c81Gck2k |
+|11:30-12:00|直播|講師線上直播解講及QA|https://meet.google.com/bhz-djus-yai|
+|13:00-14:00|預錄|(CH3-1)Bof - Local Variable|https://youtu.be/UmLr0_B6yqc |
+|--|預錄|(CH3-2)Bof - Local Variable|https://youtu.be/UqqqxYYeGXA |
+|14:00-15:30|預錄|(CH4-1)Bof - ret2code + ret2sc|https://youtu.be/Db_BQsv9MmA |
+|--|預錄|(CH4-2)Bof - ret2code + ret2sc|https://youtu.be/9wvb09WNwn0 |
+|--|預錄|(CH5-2)Bof - ret2code + ret2sc|https://youtu.be/VABqxI20ySE|
+|--|預錄|(CH5-2)Bof - ret2code + ret2sc|https://youtu.be/KKZ8YkSSb8I|
+|15:30-16:30|直播|講師線上直播解講及QA|https://meet.google.com/tdb-wixc-ixs|
+
+
+第二天
+09:00-10:30 (預錄)Bof - ret2libc
+10:30-11:30 (預錄)ROP
+11:30-12:00 (同步)講師線上直播解講及QA
+13:00-14:30 (預錄)Format String
+14:30-16:00 (預錄)Stack Migration
+16:00-16:30 (同步)講師線上直播解講及QA
+
+# 8月29日(星期日)課程表與影片/直播連結
+|時間|章節名稱|上課方式|影片/直播連結|
+|---|:---------|:------|:-------------|
+|09:00-10:30|預錄|Bof - ret2libc|https://youtu.be/ZraMzBnT-94|
+|10:30-11:30|預錄|Tools|https://youtu.be/DZ8c81Gck2k |
+|11:30-12:00|直播|講師線上直播解講及QA|https://meet.google.com/bhz-djus-yai|
+|13:00-14:00|預錄|(CH3-1)Bof - Local Variable|https://youtu.be/UmLr0_B6yqc |
+|--|預錄|(CH3-2)Bof - Local Variable|https://youtu.be/UqqqxYYeGXA |
+|14:00-15:30|預錄|(CH4-1)Bof - ret2code + ret2sc|https://youtu.be/Db_BQsv9MmA |
+|--|預錄|(CH4-2)Bof - ret2code + ret2sc|https://youtu.be/9wvb09WNwn0 |
+|15:30-16:30|直播|講師線上直播解講及QA|https://meet.google.com/tdb-wixc-ixs|
+
+
 
 # 課程問題提問表單
 ```
