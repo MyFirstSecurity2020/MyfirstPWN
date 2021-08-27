@@ -40,7 +40,8 @@ one_gadget進行測試。
 VM帳號及密碼都是user
 ```
 # 課程簡報
-![漏洞攻擊從入門到放棄.pdf]
+
+[漏洞攻擊從入門到放棄.pdf](https://github.com/MyFirstSecurity2020/MyfirstPWN/blob/main/%E6%BC%8F%E6%B4%9E%E6%94%BB%E6%93%8A%E5%BE%9E%E5%85%A5%E9%96%80%E5%88%B0%E6%94%BE%E6%A3%84.pdf)
 
 # 非經取得本單位或講者授權，不得任意轉載或公開傳輸
 
