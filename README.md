@@ -71,9 +71,9 @@ https://forms.gle/bavE1Z8gD9cdXDw78
 (2)辦理方式：請在google meet裡的訊息裡留下"學校-姓名"當作簽到。
 
 ```
+##影片8月31日下架
 
 # 8月28日(星期六)課程表與影片/直播連結
-
 |時間|上課方式|章節名稱|影片/直播連結|
 |:----:|:----:|:------|:-------------|
 |09:00-10:30|預錄|(CH1)Program Structure + Security Option|https://youtu.be/ZraMzBnT-94|
@@ -86,7 +86,6 @@ https://forms.gle/bavE1Z8gD9cdXDw78
 |--|預錄|(CH5-1)Bof - ret2sc|https://youtu.be/VABqxI20ySE|
 |--|預錄|(CH5-2)Bof - ret2sc|https://youtu.be/KKZ8YkSSb8I|
 |15:30-16:30|直播|講師線上直播解講及QA|https://meet.google.com/tdb-wixc-ixs|
-
 
 # 8月29日(星期日)課程表與影片/直播連結
 |時間|上課方式|章節名稱|影片/直播連結|
@@ -113,28 +112,28 @@ https://forms.gle/bavE1Z8gD9cdXDw78
 (2)8月29日請填寫問卷：https://forms.gle/oyfB1JWYKg1rDYnS6
 ```
 
-# CTF題目
+# CTF題目(8/29 17:25更新)
 ```
-(1)任選平台裡其中17題題目完成即可進行證書發放審查。
+(1)完成12題題目(包含8題指定題目，其餘4題任選)。
 (2)解題截止時間：8/31(二) 17:00
 
-01.張元 Pwn6 
+(指定必解)01.張元 Pwn6 
 02.張元 Pwn7
-03.張元 Pwn1 
+(指定必解)03.張元 Pwn1 
 04.pass
-05.張元 Pwn8 
+(指定必解)05.張元 Pwn8 
 06.Angelboy Pwn1
 07.gohome
 08.registration
-09.Angelboy Pwn2 
+(指定必解)09.Angelboy Pwn2 
 10.張元 Pwn9
-11.Angelboy Pwn3 
+(指定必解)11.Angelboy Pwn3 
 12.oob3 Sean Pwn3
-13.張元 Pwn10 
+(指定必解)13.張元 Pwn10 
 14.echo_server
-15.fmtstr 
+(指定必解)15.fmtstr 
 16.fmt-1
-17.fmt-2 
+(指定必解)17.fmt-2 
 18.fmt-3
 19.secret
 20.Angelboy Pwn7
