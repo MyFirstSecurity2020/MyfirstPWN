@@ -125,7 +125,7 @@ https://forms.gle/bavE1Z8gD9cdXDw78
 # [證書核發](https://forms.gle/oyfB1JWYKg1rDYnS6)
 ```
 (1)證書於9月6日後掛號寄出
-(2)8月29日請填寫問卷：https://forms.gle/oyfB1JWYKg1rDYnS6
+(2)8月29日前請填寫問卷：https://forms.gle/oyfB1JWYKg1rDYnS6
 ```
 
 # CTF題目(8/29 17:25更新)
